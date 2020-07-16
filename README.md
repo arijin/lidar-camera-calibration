@@ -6,7 +6,7 @@ This code is reffered from the old version of Autoware, and only extract the cal
 
 This code has been tested in the environment of Ubuntu18.04, ROS Melodic. For other versions of ROS, it should also work theoretically. 
 
-- ROS should be installed firstly. The install tutorial can reffer `https://www.ros.org/install/`
+- ROS should be installed firstly. The install tutorial can refer https://www.ros.org/install/.
 
 - Code compile
 
@@ -73,6 +73,8 @@ This code has been tested in the environment of Ubuntu18.04, ROS Melodic. For ot
   $cd devel/lib/calibration_camera_lidar
   $./calibration_toolkit
   ```
+  
+  Then, follow the official step.
 
 ### Quick Key
 
@@ -86,3 +88,7 @@ This code has been tested in the environment of Ubuntu18.04, ROS Melodic. For ot
 - Change light color : n for color selection;
 - Clear screen : Delete.
 
+### HELP
+
+tutorial video: https://www.youtube.com/watch?v=pfBmfgHf6zg;
+tutorial document html: https://gitlab.com/autowarefoundation/autoware.ai/autoware/-/wikis/Calibration.
