@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/arijin/catkin_robotx/autoware/ros/src/sensing/fusion/packages/calibration_camera_lidar/build/devel/setup.sh
